@@ -1,0 +1,49 @@
+{
+  "basics": {
+    "name": "Andy Nilson",
+    "label": "Student at Saint Francis High School",
+    "summary":
+      "I’m a student at Saint Francis High School. I am the lead programmer on a competitive Vex Robotics club, programming in C++. I also am a Co-Organizer of the Google Developer Group Silicon Valley. I have also done other personal projects with Java and Python.",
+    "email": "andy@andynilson.com",
+    "website": "https://andynilson.com",
+    "location": { "city": "Mountain View", "countryCode": "CA" },
+    "profiles": [
+      {
+        "network": "twitter",
+        "url": "https://twitter.com/andy_nilson",
+        "username": "andy_nilson"
+      },
+      {
+        "network": "github",
+        "username": "andynilson",
+        "url": "https://github.com/andynilson"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Saint Francis High School",
+      "studyType": "Student",
+      "area": "",
+      "startDate": "2019",
+      "endDate": "2023"
+    }
+  ],
+  "Projects": [
+    {
+      "name": "Website",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    { "name": "Automated Crypto Trder",
+      "keywords": ["Java", "Python"] }
+  ],
+  "presentations": [
+    {
+      "name": "Web Components 4 Kids",
+      "Date": "Oscon Kids Day 2015, Oscon Kids Day 2016, JavaOne Devoxx 4 Kids"
+    },
+    { "name": "Android 4 Kids",
+      "Date": "JavaOne Devoxx 4 Kids, Devoxx 4 kids" }
+  ],
+  "__v": 0
+}
